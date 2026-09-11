@@ -13,3 +13,5 @@ A képzés során elkészített otthoni gyakorló feladataim gyűjteménye.
 - [Football Web](https://github.com/Sztivi-DK/Football-Web)
 - [alap-javascript](https://github.com/Sztivi-DK/alap-javascript)
 - [magam-node-mongo](https://github.com/Sztivi-DK/magam-node-mongo)
+- [warehouse-api](https://github.com/Sztivi-DK/warehouse-api)
+- [semleges-terfel](https://github.com/Sztivi-DK/semleges-terfel)
