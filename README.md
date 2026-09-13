@@ -15,3 +15,4 @@ A képzés során elkészített otthoni gyakorló feladataim gyűjteménye.
 - [magam-node-mongo](https://github.com/Sztivi-DK/magam-node-mongo)
 - [warehouse-api](https://github.com/Sztivi-DK/warehouse-api)
 - [semleges-terfel](https://github.com/Sztivi-DK/semleges-terfel)
+- [VasarloProject1](https://github.com/Sztivi-DK/VasarloProject1)
