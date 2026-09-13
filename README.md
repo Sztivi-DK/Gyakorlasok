@@ -17,3 +17,4 @@ A képzés során elkészített otthoni gyakorló feladataim gyűjteménye.
 - [semleges-terfel](https://github.com/Sztivi-DK/semleges-terfel)
 - [VasarloProject1](https://github.com/Sztivi-DK/VasarloProject1)
 - [customers](https://github.com/Sztivi-DK/customers)
+- [blog](https://github.com/Sztivi-DK/blog)
