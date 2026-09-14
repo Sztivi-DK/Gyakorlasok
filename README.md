@@ -18,3 +18,5 @@ A képzés során elkészített otthoni gyakorló feladataim gyűjteménye.
 - [VasarloProject1](https://github.com/Sztivi-DK/VasarloProject1)
 - [customers](https://github.com/Sztivi-DK/customers)
 - [blog](https://github.com/Sztivi-DK/blog)
+- [php-ci-web01](https://github.com/Sztivi-DK/php-ci-web01)
+- [php-ci-website](https://github.com/Sztivi-DK/php-ci-website)
