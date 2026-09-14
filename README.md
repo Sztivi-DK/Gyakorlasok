@@ -20,3 +20,5 @@ A képzés során elkészített otthoni gyakorló feladataim gyűjteménye.
 - [blog](https://github.com/Sztivi-DK/blog)
 - [php-ci-web01](https://github.com/Sztivi-DK/php-ci-web01)
 - [php-ci-website](https://github.com/Sztivi-DK/php-ci-website)
+- [php-ci-manager](https://github.com/Sztivi-DK/php-ci-manager)
+- 68_alkalom – Otthoni gyakorlás: [Jooker – Node + Express + EJS verzió](https://github.com/Sztivi-DK/node-jooker/tree/1f56d74)
